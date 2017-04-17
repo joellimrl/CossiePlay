@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CossiePlay</title>
+<!-- TemplateEndEditable -->
+<link href="../css/MasterCSS.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="container">
+	<header>
+		<h1 id="title">CossiePlay</h1>
+	<div id="navbar">
+		<ul>
+			<li><a href="index.html">HOME</a></li>
+			<li><a href="cosplay.html">COSPLAY?</a></li>
+			<li><a href="aboutus.html">ABOUT US</a></li>
+			<li><a href="prices.html">PRICES</a></li>
+			<li><a href="party.html">PARTY</a></li>
+			<li><a href="contact.html">CONTACT US</a></li>
+		</ul>
+	</div>
+	</header>
+<!-- TemplateBeginEditable name="body" -->
+<!-- TemplateEndEditable -->
+</div>
+</body>
+</html>
